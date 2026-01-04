@@ -33,7 +33,16 @@ TWITCH_TOKEN = "oauth:xxxxxxxxxxxx" # Obtenir sur [https://twitchapps.com/tmi/](
 
 # YouTube
 YOUTUBE_VIDEO_ID = "ID_DE_VOTRE_LIVE" # L'ID à la fin de l'URL youtube v=
-🕹️ Contrôles (Clavier)ToucheActionF11Basculer en Plein ÉcranESCQuitter le jeuMCouper / Activer la musiqueCTRL + ESPACEMode Test (Simule des boosts)🌍 Comment jouer (Pour le Chat)Les spectateurs doivent simplement écrire le nom du pays ou son code dans le chat :"France" ou "fr""USA" ou "America""Bresil" ou "br"... et bien d'autres (Maroc, Algérie, Canada, Japon, etc.)Tout pays non listé dans les 12 principaux fera avancer la voiture "AUTRE".🔧 Structure des fichiersPlaintext📁 Racine du projet
+🕹️ Contrôles (Clavier) Touche Action
+F11 Basculer en Plein Écran
+ESC Quitter le jeu
+M Couper / Activer la musique
+CTRL + ESPACE Mode Test (Simule des boosts)
+
+🌍 Comment jouer (Pour le Chat)
+Les spectateurs doivent simplement écrire le nom du pays ou son code dans le chat :"France" ou "fr""USA" ou "America""Bresil" ou "br"... et bien d'autres (Maroc, Algérie, Canada, Japon, etc.)Tout pays non listé dans les 12 principaux fera avancer la voiture "AUTRE".🔧 Structure des fichiers
+
+📁 Racine du projet
 ├── game.py            # Le code principal
 ├── README.md          # Ce fichier
 ├── 📁 flags/          # Vos drapeaux (optionnel, sinon utilise des couleurs)
@@ -43,5 +52,5 @@ YOUTUBE_VIDEO_ID = "ID_DE_VOTRE_LIVE" # L'ID à la fin de l'URL youtube v=
 └── 📁 sounds/         # Vos sons (optionnel)
     ├── music.mp3
     ├── vroom.mp3
-
     └── win.mp3
+
