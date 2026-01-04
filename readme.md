@@ -1,5 +1,7 @@
 # 🏎️ Stream Chat Racing - World Championship
 
+<img width="1024" height="400" alt="Gemini_Generated_Image_y983sny983sny983" src="https://github.com/user-attachments/assets/6955bcee-8d50-4bb8-ba08-6b6d61712a04" />
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pygame](https://img.shields.io/badge/Library-Pygame-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Twitch%20%7C%20YouTube-purple)
@@ -41,4 +43,5 @@ YOUTUBE_VIDEO_ID = "ID_DE_VOTRE_LIVE" # L'ID à la fin de l'URL youtube v=
 └── 📁 sounds/         # Vos sons (optionnel)
     ├── music.mp3
     ├── vroom.mp3
+
     └── win.mp3
